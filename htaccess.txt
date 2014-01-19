@@ -1,0 +1,22 @@
+# For security reasons, Option followsymlinks cannot be overridden.
+#Options +FollowSymlinks
+#Options +SymLinksIfOwnerMatch
+
+RewriteEngine on
+RewriteBase /
+
+rewritecond %{http_host} ^menumogul.com [nc]
+rewriterule ^(.*)$ http://www.menumogul.com/$1 [r=301,nc]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^menu/[-a-z0-9]+/(.*)/ menu.php?cust_id=$1
+
+
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+Header set Cache-Control "max-age=290304000, public"
+</FilesMatch>
+
+
+

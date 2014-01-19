@@ -1,0 +1,252 @@
+[19-Jan-2011 17:57:12] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 28
+[19-Jan-2011 17:57:48] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 28
+[19-Jan-2011 17:59:00] PHP Parse error:  syntax error, unexpected '}' in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 56
+[19-Jan-2011 18:00:51] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:4) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 4
+[19-Jan-2011 18:01:06] PHP Parse error:  syntax error, unexpected '}' in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 56
+[27-Jan-2011 18:32:41] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:4) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 28
+[27-Jan-2011 18:33:33] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:4) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 28
+[27-Jan-2011 18:33:37] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:4) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 28
+[27-Jan-2011 18:34:57] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:4) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 28
+[27-Jan-2011 18:35:12] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:4) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 28
+[27-Jan-2011 18:36:42] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:4) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 28
+[27-Jan-2011 18:37:56] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:3) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 27
+[27-Jan-2011 18:45:42] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:3) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 27
+[27-Jan-2011 18:46:50] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:3) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 27
+[27-Jan-2011 18:47:04] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/functions.php:3) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 27
+[27-Jan-2011 18:48:10] PHP Parse error:  syntax error, unexpected '<' in /home1/rjpcreat/public_html/menumogul/menu.php on line 26
+[27-Jan-2011 18:52:55] PHP Parse error:  syntax error, unexpected T_STRING in /home1/rjpcreat/public_html/menumogul/menu.php on line 73
+[27-Jan-2011 19:05:51] PHP Parse error:  syntax error, unexpected T_WHILE in /home1/rjpcreat/public_html/menumogul/menu.php on line 96
+[30-Jan-2011 16:14:14] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[30-Jan-2011 16:14:14] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[30-Jan-2011 16:14:14] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[30-Jan-2011 16:21:50] PHP Parse error:  syntax error, unexpected ';' in /home1/rjpcreat/public_html/menumogul/index.php on line 28
+[01-Feb-2011 02:46:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'rjpcreat'@'localhost' (using password: NO) in /home1/rjpcreat/public_html/menumogul/welcome.php on line 20
+[01-Feb-2011 02:46:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/rjpcreat/public_html/menumogul/welcome.php on line 20
+[02-Feb-2011 17:48:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 8
+[02-Feb-2011 17:53:16] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 8
+[02-Feb-2011 18:22:44] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 124
+[02-Feb-2011 18:32:05] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home1/rjpcreat/public_html/menumogul/index.php on line 31
+[02-Feb-2011 18:32:05] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home1/rjpcreat/public_html/menumogul/index.php on line 31
+[02-Feb-2011 19:19:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 74
+[02-Feb-2011 19:19:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 74
+[02-Feb-2011 19:33:52] PHP Parse error:  syntax error, unexpected '"' in /home1/rjpcreat/public_html/menumogul/functions/categories.php on line 47
+[02-Feb-2011 19:34:19] PHP Parse error:  syntax error, unexpected '"' in /home1/rjpcreat/public_html/menumogul/functions/categories.php on line 47
+[02-Feb-2011 19:35:59] PHP Parse error:  syntax error, unexpected '"' in /home1/rjpcreat/public_html/menumogul/functions/categories.php on line 47
+[02-Feb-2011 19:36:06] PHP Parse error:  syntax error, unexpected '"' in /home1/rjpcreat/public_html/menumogul/functions/categories.php on line 47
+[03-Feb-2011 18:11:16] PHP Parse error:  syntax error, unexpected '}' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 101
+[03-Feb-2011 18:12:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 18:13:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 18:14:11] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 18:36:41] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 81
+[03-Feb-2011 19:01:41] PHP Parse error:  syntax error, unexpected ',', expecting ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 88
+[03-Feb-2011 19:02:36] PHP Parse error:  syntax error, unexpected ',', expecting ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 88
+[03-Feb-2011 19:02:38] PHP Parse error:  syntax error, unexpected ',', expecting ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 88
+[03-Feb-2011 19:03:04] PHP Parse error:  syntax error, unexpected T_INC, expecting ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 88
+[03-Feb-2011 19:03:24] PHP Parse error:  syntax error, unexpected T_INC, expecting ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 88
+[03-Feb-2011 19:03:29] PHP Parse error:  syntax error, unexpected T_INC, expecting ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 88
+[03-Feb-2011 19:05:14] PHP Parse error:  syntax error, unexpected T_INC, expecting ')' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 88
+[03-Feb-2011 19:07:14] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/city_page.php on line 215
+[03-Feb-2011 19:13:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:38:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:41:05] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:42:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:42:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:44:10] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:44:12] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:44:51] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:45:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 73
+[03-Feb-2011 19:51:04] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 103
+[03-Feb-2011 19:51:07] PHP Parse error:  syntax error, unexpected ':', expecting ',' or ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 103
+[03-Feb-2011 19:53:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 98
+[03-Feb-2011 19:54:17] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 93
+[03-Feb-2011 19:54:36] PHP Parse error:  syntax error, unexpected ';' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 93
+[04-Feb-2011 10:34:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 14
+[04-Feb-2011 17:26:25] PHP Fatal error:  Cannot redeclare cat_by_zip() (previously declared in /home1/rjpcreat/public_html/menumogul/functions/categories.php:43) in /home1/rjpcreat/public_html/menumogul/functions/customers.php on line 164
+[04-Feb-2011 17:28:02] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/rjpcreat/public_html/menumogul/city_page.php on line 44
+[04-Feb-2011 17:31:39] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/rjpcreat/public_html/menumogul/city_page.php on line 88
+[04-Feb-2011 17:37:12] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/city_page.php on line 147
+[04-Feb-2011 17:39:03] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/rjpcreat/public_html/menumogul/city_page.php on line 93
+[04-Feb-2011 17:39:44] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/rjpcreat/public_html/menumogul/city_page.php on line 90
+[04-Feb-2011 17:46:26] PHP Parse error:  syntax error, unexpected ')' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 81
+[04-Feb-2011 17:47:32] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home1/rjpcreat/public_html/menumogul/city_page.php on line 84
+[05-Feb-2011 04:06:41] PHP Parse error:  syntax error, unexpected '}' in /home1/rjpcreat/public_html/menumogul/city_page.php on line 47
+[05-Feb-2011 05:53:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/city_page.php on line 82
+[05-Feb-2011 06:21:58] PHP Parse error:  syntax error, unexpected '<' in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 14
+[05-Feb-2011 06:26:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[05-Feb-2011 06:28:28] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[05-Feb-2011 06:29:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[05-Feb-2011 07:09:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 19
+[05-Feb-2011 07:12:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 19
+[05-Feb-2011 07:15:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 19
+[05-Feb-2011 07:15:57] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 19
+[05-Feb-2011 14:50:17] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 20
+[05-Feb-2011 18:51:15] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 1
+[05-Feb-2011 18:51:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 1
+[05-Feb-2011 18:51:15] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 2
+[05-Feb-2011 18:51:26] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 1
+[05-Feb-2011 18:51:26] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 1
+[05-Feb-2011 18:51:26] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 2
+[05-Feb-2011 18:51:47] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:47] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[05-Feb-2011 18:51:49] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:49] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[05-Feb-2011 18:51:51] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:51] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:51] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[05-Feb-2011 18:51:55] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:55] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[05-Feb-2011 18:51:56] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:56] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:51:56] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[05-Feb-2011 18:52:18] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:52:18] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:52:18] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[05-Feb-2011 18:52:42] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:52:42] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:52:42] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[05-Feb-2011 18:52:43] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:52:43] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:52:43] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[05-Feb-2011 18:53:03] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:53:03] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[05-Feb-2011 18:53:03] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[11-Feb-2011 05:40:30] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[11-Feb-2011 05:40:30] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/index.php on line 1
+[11-Feb-2011 05:40:30] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/index.php on line 2
+[11-Feb-2011 05:42:58] PHP Warning:  require(ads.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[11-Feb-2011 05:42:58] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ads.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 08:31:50] PHP Warning:  require(ads.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 08:31:50] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ads.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 12:12:17] PHP Warning:  require(ads.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 12:12:17] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ads.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 12:14:38] PHP Warning:  require(ads.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 12:14:38] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ads.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 12:15:30] PHP Warning:  require(ads.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 12:15:30] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ads.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 12:16:30] PHP Warning:  require(ads.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[13-Feb-2011 12:16:30] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'ads.php' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/functions/functions.php on line 91
+[15-Feb-2011 18:43:20] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php:3) in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 27
+[15-Feb-2011 18:43:42] PHP Fatal error:  Cannot redeclare connect() (previously declared in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php:3) in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 27
+[15-Feb-2011 18:49:33] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home1/rjpcreat/public_html/menumogul/ads_pics.php on line 2
+[15-Feb-2011 19:07:05] PHP Warning:  include(ad_ajax.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/city_page.php on line 7
+[15-Feb-2011 19:07:05] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'ad_ajax.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/city_page.php on line 7
+[15-Feb-2011 19:07:33] PHP Warning:  include(ad_pics.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/city_page.php on line 7
+[15-Feb-2011 19:07:33] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'ad_pics.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/city_page.php on line 7
+[15-Feb-2011 19:08:29] PHP Warning:  include(ad_pics.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/city_page.php on line 7
+[15-Feb-2011 19:08:29] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'ad_pics.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/city_page.php on line 7
+[17-Feb-2011 18:10:14] PHP Parse error:  syntax error, unexpected ';' in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 3
+[17-Feb-2011 18:10:40] PHP Fatal error:  Function name must be a string in /home1/rjpcreat/public_html/menumogul/city_page.php on line 6
+[17-Feb-2011 18:11:37] PHP Fatal error:  Function name must be a string in /home1/rjpcreat/public_html/menumogul/city_page.php on line 6
+[17-Feb-2011 18:11:41] PHP Fatal error:  Function name must be a string in /home1/rjpcreat/public_html/menumogul/city_page.php on line 6
+[17-Feb-2011 18:13:10] PHP Fatal error:  Function name must be a string in /home1/rjpcreat/public_html/menumogul/city_page.php on line 6
+[17-Feb-2011 18:13:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 7
+[21-Feb-2011 03:31:58] PHP Parse error:  syntax error, unexpected ',' in /home1/rjpcreat/public_html/menumogul/functions/ads.php on line 6
+[21-Feb-2011 10:20:01] PHP Parse error:  syntax error, unexpected ',' in /home1/rjpcreat/public_html/menumogul/functions/ads.php on line 6
+[21-Feb-2011 15:50:32] PHP Parse error:  syntax error, unexpected ',' in /home1/rjpcreat/public_html/menumogul/functions/ads.php on line 6
+[21-Feb-2011 22:02:53] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[21-Feb-2011 22:02:53] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[21-Feb-2011 22:02:53] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[22-Feb-2011 04:07:34] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[22-Feb-2011 04:07:34] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[22-Feb-2011 04:07:34] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[23-Feb-2011 16:39:46] PHP Parse error:  syntax error, unexpected T_STRING in /home1/rjpcreat/public_html/menumogul/redirect_ajax.php on line 2
+[23-Feb-2011 16:40:05] PHP Parse error:  syntax error, unexpected T_STRING in /home1/rjpcreat/public_html/menumogul/redirect_ajax.php on line 2
+[23-Feb-2011 16:40:11] PHP Parse error:  syntax error, unexpected T_STRING in /home1/rjpcreat/public_html/menumogul/redirect_ajax.php on line 2
+[23-Feb-2011 16:40:27] PHP Warning:  include(../functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/redirect_ajax.php on line 1
+[23-Feb-2011 16:40:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '../functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/redirect_ajax.php on line 1
+[23-Feb-2011 16:40:27] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/redirect_ajax.php on line 2
+[23-Feb-2011 16:41:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home1/rjpcreat/public_html/menumogul/redirect_ajax.php:5) in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 48
+[23-Feb-2011 19:10:35] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 260
+[23-Feb-2011 19:10:41] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 260
+[24-Feb-2011 17:44:40] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[24-Feb-2011 17:44:40] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[24-Feb-2011 17:44:40] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[24-Feb-2011 17:45:55] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[24-Feb-2011 17:45:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[24-Feb-2011 17:45:55] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[24-Feb-2011 17:51:41] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[24-Feb-2011 17:51:41] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[24-Feb-2011 17:51:41] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[26-Feb-2011 12:44:55] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[26-Feb-2011 12:44:55] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[26-Feb-2011 12:44:55] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[27-Feb-2011 09:41:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 14
+[27-Feb-2011 16:11:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 45
+[27-Feb-2011 16:51:16] PHP Parse error:  syntax error, unexpected T_IF in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 51
+[01-Mar-2011 07:03:22] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Mar-2011 07:03:22] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Mar-2011 07:03:22] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[01-Mar-2011 08:52:21] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Mar-2011 08:52:21] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Mar-2011 08:52:21] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[01-Mar-2011 11:36:49] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Mar-2011 11:36:49] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Mar-2011 11:36:49] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[01-Mar-2011 14:30:27] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Mar-2011 14:30:27] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Mar-2011 14:30:27] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[04-Mar-2011 10:07:16] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[04-Mar-2011 10:07:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[04-Mar-2011 10:07:16] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[04-Mar-2011 10:55:39] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[04-Mar-2011 10:55:39] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[04-Mar-2011 10:55:39] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[04-Mar-2011 16:54:24] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/menu.php on line 183
+[05-Mar-2011 14:17:17] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[05-Mar-2011 15:22:11] PHP Warning:  require(email-func) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:22:11] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'email-func' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:22:47] PHP Warning:  require(email-func) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:22:47] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'email-func' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:23:41] PHP Warning:  require(email-func) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:23:41] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'email-func' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:24:06] PHP Warning:  require(email-func) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:24:06] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'email-func' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:25:54] PHP Warning:  require(email-func) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 15:25:54] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'email-func' (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/admin/functions/functions.php on line 97
+[05-Mar-2011 18:10:18] PHP Fatal error:  Call to undefined function  contact_email() in /home1/rjpcreat/public_html/menumogul/contact_us.php on line 9
+[05-Mar-2011 18:31:05] PHP Fatal error:  Call to undefined function  contact_email() in /home1/rjpcreat/public_html/menumogul/info_page.php on line 9
+[05-Mar-2011 19:07:46] PHP Fatal error:  Call to undefined function  upload_listing() in /home1/rjpcreat/public_html/menumogul/sign_up.php on line 6
+[05-Mar-2011 19:15:33] PHP Parse error:  syntax error, unexpected '/' in /home1/rjpcreat/public_html/menumogul/sign_up.php on line 124
+[05-Mar-2011 19:16:05] PHP Parse error:  syntax error, unexpected '}' in /home1/rjpcreat/public_html/menumogul/sign_up.php on line 125
+[06-Mar-2011 06:53:30] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[06-Mar-2011 06:53:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[06-Mar-2011 06:54:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[06-Mar-2011 06:54:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[06-Mar-2011 06:54:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[06-Mar-2011 06:55:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 18
+[06-Mar-2011 13:44:06] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[06-Mar-2011 13:44:06] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[06-Mar-2011 13:44:06] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[06-Mar-2011 13:51:36] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[06-Mar-2011 13:51:36] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[06-Mar-2011 13:51:36] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[06-Mar-2011 18:59:18] PHP Parse error:  syntax error, unexpected ';' in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 90
+[06-Mar-2011 18:59:19] PHP Parse error:  syntax error, unexpected ';' in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 90
+[06-Mar-2011 18:59:40] PHP Parse error:  syntax error, unexpected ';' in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 90
+[06-Mar-2011 19:00:06] PHP Parse error:  syntax error, unexpected ';' in /home1/rjpcreat/public_html/menumogul/admin/functions/script-func.php on line 90
+[10-Mar-2011 17:27:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 40
+[10-Mar-2011 17:28:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 40
+[10-Mar-2011 17:30:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 41
+[10-Mar-2011 17:30:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 41
+[10-Mar-2011 17:30:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 41
+[10-Mar-2011 17:33:30] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 97
+[10-Mar-2011 17:35:11] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 98
+[10-Mar-2011 17:35:43] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 101
+[10-Mar-2011 17:37:16] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 101
+[10-Mar-2011 17:41:22] PHP Parse error:  syntax error, unexpected '}' in /home1/rjpcreat/public_html/menumogul/cust_ajax.php on line 44
+[13-Mar-2011 05:59:00] PHP Fatal error:  Call to undefined function  now() in /home1/rjpcreat/public_html/menumogul/footer.php on line 28
+[16-Mar-2011 15:41:41] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/menu.php on line 217
+[16-Mar-2011 15:41:45] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/menu.php on line 217
+[20-Mar-2011 07:59:29] PHP Parse error:  syntax error, unexpected T_ELSE in /home1/rjpcreat/public_html/menumogul/menu.php on line 191
+[27-Mar-2011 17:46:07] PHP Parse error:  syntax error, unexpected $end in /home1/rjpcreat/public_html/menumogul/menuish.php on line 114
+[27-Mar-2011 18:56:12] PHP Parse error:  syntax error, unexpected '}' in /home1/rjpcreat/public_html/menumogul/menuish.php on line 185
+[27-Mar-2011 19:10:44] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home1/rjpcreat/public_html/menumogul/admin/functions/menu-fuct.php on line 113
+[29-Mar-2011 05:25:50] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[29-Mar-2011 05:25:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[29-Mar-2011 05:25:50] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2
+[01-Apr-2011 18:53:51] PHP Warning:  include(functions/functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Apr-2011 18:53:52] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions/functions.php' for inclusion (include_path='.:/usr/lib64/php:/usr/lib/php') in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 1
+[01-Apr-2011 18:53:52] PHP Fatal error:  Call to undefined function  connect() in /home1/rjpcreat/public_html/menumogul/display_by_zip.php on line 2

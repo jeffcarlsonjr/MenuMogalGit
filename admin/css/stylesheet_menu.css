@@ -1,0 +1,137 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#wrapper{
+	width:100%; margin-left:auto; margin-right:auto;
+	
+	}
+#TOP_HEADER {
+	height: 160px;
+	width: 1004px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+.logo {
+	float: left;
+	height: 125px;
+	width: 300px;
+	margin-top: 15px;
+	
+	background-image:url(../images/logo.png);
+	background-repeat: no-repeat;
+}
+.menu_area {
+	height: 60px;
+	width: 650px;
+	margin-top: 60px;
+	float: right;
+}
+#main_area {
+	float: none;
+	height: 700px;
+	width: 1004px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#search_area {
+	float: none;
+	width: 1004px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	height: 75px;
+	background-color: #138D3C;
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-right-radius: 10px;
+	-moz-border-radius-bottomleft: 10px;
+    border-bottom-left-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+    border-top-left-radius: 10px;
+}
+body {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #FFF;
+}
+.search_cuisine {
+	float: right;
+	height: 25px;
+	width: 300px;
+	margin-top: 20px;
+	-moz-border-radius-bottomright: 10px;
+	border-bottom-right-radius: 10px;
+	-moz-border-radius-topright: 10px;
+	border-top-right-radius: 10px;
+	background-color: #390;
+	margin-right: 5px;
+	padding: 5px;
+}
+.search_image {
+	float: right;
+	width: 125px;
+	margin-top: 20px;
+	height: 25px;
+	padding: 5px;
+	-moz-border-radius-bottomleft: 10px;
+	border-bottom-left-radius: 10px;
+	-moz-border-radius-topleft: 10px;
+	border-top-left-radius: 10px;
+	background-color: #390;
+}
+.search_specific {
+	float: left;
+	height: 25px;
+	width: 300px;
+	margin-top: 20px;
+	margin-left: 5px;
+	padding: 5px;
+	background-color: #390;
+}
+.left_nav {
+	float: left;
+	height: 500px;
+	width: 250px;
+}
+.main_content {
+	float: left;
+	height: 700px;
+	width: 754px;
+}
+.search_image_spec {
+	background-color: #390;
+	padding: 5px;
+	height: 25px;
+	width: 125px;
+	float: left;
+	margin-top: 20px;
+}
+.table_links{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	font-weight:700;
+	text-align:center;
+	
+	}
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+	color: #999;
+}
+a:active {
+	text-decoration: none;
+	color: #000;
+}
